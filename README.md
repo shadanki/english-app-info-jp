@@ -61,4 +61,4 @@
 ---
 
 ## お問い合わせ
-ご質問・ご要望等がございましたら、[Issues](https://github.com/shadanki/english-app-info-jp/issues)または[メール](seiyakawano05410@gmail.com)にてご連絡ください。
+ご質問・ご要望等がございましたら、[Issues](https://github.com/shadanki/english-app-info-jp/issues)または[メール](mailto:seiyakawano05410@gmail.com)にてご連絡ください。
